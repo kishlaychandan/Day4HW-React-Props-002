@@ -27,8 +27,7 @@ function Movie(props) {
       </div>
       <div className="right">
         <div className="poster">
-        <img  src={props.movie.img2} alt="img2" />
-      
+        <img  src={props.movie.img2} alt="img2" />      
         </div>
         </div>
     </div>
